@@ -1,0 +1,1 @@
+# floyed-s-triangle
